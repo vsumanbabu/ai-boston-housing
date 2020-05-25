@@ -15,7 +15,7 @@ AI Boston Housing
 ## Data sets
 
 ### Boston.csv
-####Features:
+#### Features:
 CRIM - per capita crime rate by town
 ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
 INDUS - proportion of non-retail business acres per town.
@@ -29,5 +29,5 @@ TAX - full-value property-tax rate per $10,000
 PTRATIO - pupil-teacher ratio by town
 BLACK - where Bk is the proportion of blacks by town
 LSTAT - lower status of the population
-####Output Variable:
+#### Output Variable:
 MEDV - Median value of owner-occupied homes in $1000's
