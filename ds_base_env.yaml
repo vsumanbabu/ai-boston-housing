@@ -14,3 +14,5 @@ dependencies:
     - pandas==1.0.3
     - IPython==7.14.0
     - pandas-profiling==2.6
+    - xgboost
+    - shap
